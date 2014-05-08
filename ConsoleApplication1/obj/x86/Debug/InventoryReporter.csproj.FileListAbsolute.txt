@@ -1,0 +1,19 @@
+C:\Users\asdf\Desktop\DailyDocs\ASP.NET_2011\project1\abstractionAssignment_starter\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\asdf\Desktop\DailyDocs\ASP.NET_2011\project1\abstractionAssignment_starter\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\asdf\Desktop\DailyDocs\ASP.NET_2011\project1\abstractionAssignment_starter\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\asdf\Desktop\DailyDocs\ASP.NET_2011\project1\abstractionAssignment_starter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\asdf\Desktop\DailyDocs\ASP.NET_2011\project1\abstractionAssignment_starter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\asdf\Desktop\DailyDocs\ASP.NET_2011\C#\bbo\Assignment4\abstractionAssignment_starter\abstractionAssignment_starter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\asdf\Desktop\DailyDocs\ASP.NET_2011\C#\bbo\Assignment4\abstractionAssignment_starter\abstractionAssignment_starter\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\asdf\Desktop\DailyDocs\C#_2011\day7\assignment6_starterProject\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\asdf\Desktop\DailyDocs\C#_2011\day7\assignment6_starterProject\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+\\psf\Home\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day8\assignment6onlyworth10percent\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+\\psf\Home\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day8\assignment6onlyworth10percent\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+\\psf\Home\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day8\assignment6onlyworth10percent\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\psf\Home\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day8\assignment6onlyworth10percent\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\psf\Home\Desktop\DailyDocs\_SSD18\CSharp\CSharp\day8\assignment6onlyworth10percent\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\obj\x86\Debug\InventoryReporter.csprojResolveAssemblyReference.cache
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part2\day4\Homework6\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part2\day4\Homework6\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part2\day4\Homework6\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part2\day4\Homework6\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\can you dig it\Documents\SSD bcit\CSharp\Part2\day4\Homework6\assignment6_starterProject\assignment6_starterProject\ConsoleApplication1\obj\x86\Debug\InventoryReporter.csprojResolveAssemblyReference.cache
